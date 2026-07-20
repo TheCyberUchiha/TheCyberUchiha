@@ -25,7 +25,7 @@
 ## 🖥️ whoami
 
 ```bash
-darshak@parul:~$ whoami
+darshak@thecyberuchiha:~$ whoami
 ```
 ```json
 {
@@ -167,23 +167,38 @@ Building exciting Cyber Security & Web Development Projects.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TheCyberUchiha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheCyberUchiha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    width="49%"
+  />
 
-<img src="https://streak-stats.demolab.com?user=TheCyberUchiha&theme=tokyonight&hide_border=true" width="49%"/>
+  <img
+    src="https://streak-stats.demolab.com?user=TheCyberUchiha&theme=tokyonight&hide_border=true"
+    width="49%"
+  />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberUchiha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TheCyberUchiha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="40%"
+  />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TheCyberUchiha&theme=algolia&row=1&column=6&no-frame=true"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=TheCyberUchiha&theme=algolia&row=1&column=6&no-frame=true&margin-w=8"
+    alt="GitHub Trophies"
+  />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCyberUchiha&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=TheCyberUchiha&theme=tokyo-night&hide_border=true"
+    width="100%"
+    alt="Contribution Graph"
+  />
 </p>
----
 
 ## 🐍 Contribution Snake
 
