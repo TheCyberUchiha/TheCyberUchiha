@@ -1,32 +1,171 @@
-name: Generate Snake Animation
+<div align="center">
+<img src="banner.png" alt="Darshak Bhalgamiya — Discipline builds the future you'll thank yourself for" width="100%"/>
+</div>
 
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs once a day
-  push:
-    branches:
-      - main
-  workflow_dispatch:       # lets you trigger it manually from the Actions tab
+<div align="center">
 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+<a href="https://github.com/TheCyberUchiha">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&duration=3000&pause=600&color=FF1E1E&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%96%88%E2%96%93%E2%96%92%E2%96%91+DARSHAK+BHALGAMIYA+%E2%96%91%E2%96%92%E2%96%93%E2%96%88;%3E_+CYBER+SECURITY+STUDENT" alt="Typing SVG"/>
+</a>
 
-      - name: Push to the "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=700&color=E6EDF3&center=true&vCenter=true&width=650&lines=Cyber+Security+Student+%40+Parul+University;Building+Security%2C+One+Layer+at+a+Time;It%27s+You+vs+You.;Team+Lead+%40+Cyber+Knights+-+SIH+2025" alt="Subtitle"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎓-B.Tech_CSE_(Cyber_Security)-FF1E1E?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🏛️-Parul_University-DC143C?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🥷-Cyber_Knights_Team_Lead-8B0000?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/🏆-Top_Performer_@_Corizo-FFD700?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/📍-Vadodara%2C_Gujarat-C9D1D9?style=flat-square&labelColor=0D1117"/>
+
+</div>
+
+<br/>
+
+## 🖥️ whoami
+
+```bash
+darshak@parul:~$ whoami
+```
+```json
+{
+  "name": "Darshak Bhalgamiya",
+  "alias": "TheCyberUchiha",
+  "role": "Cyber Security Student | Aspiring Security & Web Developer",
+  "education": "B.Tech CSE (Cyber Security) — Parul University, Vadodara ('29)",
+  "focus": ["Networking", "Linux", "Nmap", "DSA", "Web Development"],
+  "currentBuild": "CoreOps — Incident Response & Ticket Management Platform",
+  "status": "🏆 Top Performer — Corizo Cyber Security Internship",
+  "motto": "It's you vs you."
+}
+```
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 2nd-year **B.Tech CSE (Cyber Security)** student at **Parul University**, Vadodara — TFWS government seat
+- 🚀 Started with a **State-Level Science Fair** project ("Garbage Management Technique"), then built programming (C, C++, Java) and web dev (HTML, CSS, JS) foundations before moving into applied security
+- 🔐 Now focused on **networking, Linux, and hands-on tools** like Nmap, backed by daily DSA practice
+- 🏅 Recognized **Top Performer** — Corizo Cyber Security Training & Internship
+- 🥷 **Team Leader**, *Cyber Knights* — Smart India Hackathon (SIH) 2025
+- 🧠 Motto: *"It's you vs you"* — consistency over speed, fundamentals before complexity
+- 🌐 Portfolio: [thecyberuchiha.github.io/Portfolio](https://thecyberuchiha.github.io/Portfolio/)
+
+---
+
+## 🎓 Education
+
+| Qualification | Institution | Duration | Score |
+|---|---|---|---|
+| B.Tech CSE (Cyber Security) | Parul University, Vadodara (TFWS) | 2025 – 2029 | CGPA 9.0 (Year 1) |
+| 12th Standard, Science | Rosary School, Vadodara | 2023 – 2025 | 87% |
+| 10th Standard | Nutan Vidhyalaya, Vadodara | 2021 – 2023 | 91% |
+
+---
+
+## 🏆 Experience & Achievements
+
+- 🏆 **Cyber Security Intern — Corizo** (Mar – Apr 2026) — recognized **Top Performer**
+- 🥷 **Team Leader, "Cyber Knights"** — Smart India Hackathon (SIH) 2025 — led problem-statement scoping, solution design & final presentation
+- 💡 **Participant — Vadodara Hackathon 6.0** (2025) — rapid problem-solving & prototyping
+- 🔬 **State-Level Science Fair** — "Garbage Management Technique" project, the spark that started it all
+
+---
+
+## ⚡ Tech Stack & Tools
+
+**Languages & Web**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,git,github,linux,vscode&theme=dark" alt="tech stack"/>
+
+**Security & Networking Focus**
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Nmap-FF1E1E?style=for-the-badge&logo=nmap&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Networking_Fundamentals-DC143C?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-8B0000?style=for-the-badge&labelColor=0D1117"/>
+
+---
+
+## 📜 Certifications
+
+<img src="https://img.shields.io/badge/Corizo-Cyber_Security_Training_%26_Internship-FF1E1E?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Pearson-HTML_%26_CSS-DC143C?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Certified-C_%2F_C%2B%2B-8B0000?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Certified-JavaScript-FFD700?style=for-the-badge&labelColor=0D1117&logoColor=black"/>
+
+---
+
+## 💻 Featured Projects
+
+<table>
+<tr>
+<td width="45%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheCyberUchiha&repo=OmniGupt&theme=radical&hide_border=true" alt="OmniGupt"/></td>
+<td>🔐 <b>OmniGupt</b> — encryption/decryption web app built with modern cryptographic algorithms for data protection.<br/>
+<a href="https://github.com/TheCyberUchiha/OmniGupt">Repo</a> · <a href="https://omnigupt.vercel.app">Live Demo</a></td>
+</tr>
+<tr>
+<td width="45%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheCyberUchiha&repo=NetShield&theme=radical&hide_border=true" alt="NetShield"/></td>
+<td>🛡️ <b>NetShield</b> — privacy-focused browser extension that restricts access to chosen websites for focus & productivity.<br/>
+<a href="https://netshield-web.vercel.app">Live Demo</a></td>
+</tr>
+<tr>
+<td width="45%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheCyberUchiha&repo=CoreOps&theme=radical&hide_border=true" alt="CoreOps"/></td>
+<td>🎫 <b>CoreOps</b> — incident response & ticket management platform: reporters get a tracking token instantly, SOC staff get real-time alerts and can triage through resolution.</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TheCyberUchiha&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=TheCyberUchiha&theme=radical&hide_border=true" width="49%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberUchiha&layout=compact&theme=radical&hide_border=true" width="40%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TheCyberUchiha&theme=radical&row=1&column=6&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophies"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCyberUchiha&bg_color=0D1117&color=FF1E1E&line=FF1E1E&point=FFFFFF&area=true&hide_border=true" alt="activity graph" width="90%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheCyberUchiha/TheCyberUchiha/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/TheCyberUchiha/TheCyberUchiha/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+> Needs the included `snake.yml` GitHub Action running once before it shows anything — setup notes below.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/darshak-bhalgamiya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-darshak--bhalgamiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://github.com/TheCyberUchiha" target="_blank"><img src="https://img.shields.io/badge/GitHub-TheCyberUchiha-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+<a href="https://thecyberuchiha.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-thecyberuchiha.github.io-FF1E1E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117"/></a>
+<a href="mailto:the.cyber.uchiha.27@gmail.com"><img src="https://img.shields.io/badge/Gmail-the.cyber.uchiha.27-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+</p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=TheCyberUchiha&style=for-the-badge&color=ff1e1e&label=PROFILE+VIEWS"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:8B0000,100:0D1117&height=100&section=footer"/>
+<i>"It's you vs you."</i>
+</div>
