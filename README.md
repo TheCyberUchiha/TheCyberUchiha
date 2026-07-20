@@ -1,5 +1,5 @@
 <div align="center">
-<img src="banner.png" alt="Darshak Bhalgamiya — Discipline builds the future you'll thank yourself for" width="100%"/>
+<img src="dnb.png" alt="Darshak Bhalgamiya — Discipline builds the future you'll thank yourself for" width="100%"/>
 </div>
 
 <div align="center">
