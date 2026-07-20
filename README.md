@@ -101,52 +101,103 @@ darshak@parul:~$ whoami
 
 <table>
 <tr>
-<td width="45%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheCyberUchiha&repo=OmniGupt&theme=radical&hide_border=true" alt="OmniGupt"/></td>
-<td>🔐 <b>OmniGupt</b> — encryption/decryption web app built with modern cryptographic algorithms for data protection.<br/>
-<a href="https://github.com/TheCyberUchiha/OmniGupt">Repo</a> · <a href="https://omnigupt.vercel.app">Live Demo</a></td>
+<td width="45%" align="center">
+
+### 🔐 OmniGupt
+
+Modern Encryption & Decryption Web App
+
+<a href="https://github.com/TheCyberUchiha/OmniGupt">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://omnigupt.vercel.app">
+<img src="https://img.shields.io/badge/Live-Demo-FF1E1E?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="45%" align="center">
+
+### 🛡 NetShield
+
+Privacy-focused Browser Extension
+
+⭐ Contributor Project
+
+<br/><br/>
+
+<a href="https://netshield-web.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-FF1E1E?style=for-the-badge"/>
+</a>
+
+</td>
 </tr>
+
 <tr>
-<td width="45%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheCyberUchiha&repo=NetShield&theme=radical&hide_border=true" alt="NetShield"/></td>
-<td>🛡️ <b>NetShield</b> — privacy-focused browser extension that restricts access to chosen websites for focus & productivity.<br/>
-<a href="https://netshield-web.vercel.app">Live Demo</a></td>
-</tr>
-<tr>
-<td width="45%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=TheCyberUchiha&repo=CoreOps&theme=radical&hide_border=true" alt="CoreOps"/></td>
-<td>🎫 <b>CoreOps</b> — incident response & ticket management platform: reporters get a tracking token instantly, SOC staff get real-time alerts and can triage through resolution.</td>
+<td width="45%" align="center">
+
+### 🎫 CoreOps
+
+Incident Response & Ticket Management Platform
+
+⭐ Contributor Project
+
+<br/><br/>
+
+<a href="https://core-ops-wine.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-FF1E1E?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="45%" align="center">
+
+### 🚀 More Coming Soon...
+
+Building exciting Cyber Security & Web Development Projects.
+
+</td>
 </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TheCyberUchiha&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=TheCyberUchiha&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=TheCyberUchiha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+
+<img src="https://streak-stats.demolab.com?user=TheCyberUchiha&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberUchiha&layout=compact&theme=radical&hide_border=true" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyberUchiha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=TheCyberUchiha&theme=radical&row=1&column=6&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=TheCyberUchiha&theme=algolia&row=1&column=6&no-frame=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCyberUchiha&bg_color=0D1117&color=FF1E1E&line=FF1E1E&point=FFFFFF&area=true&hide_border=true" alt="activity graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheCyberUchiha&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheCyberUchiha/TheCyberUchiha/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/TheCyberUchiha/TheCyberUchiha/output/github-contribution-grid-snake.svg"/>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TheCyberUchiha/TheCyberUchiha/output/github-contribution-grid-snake-dark.svg">
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/TheCyberUchiha/TheCyberUchiha/output/github-contribution-grid-snake.svg">
 </picture>
 
-> Needs the included `snake.yml` GitHub Action running once before it shows anything — setup notes below.
+
 
 ---
 
