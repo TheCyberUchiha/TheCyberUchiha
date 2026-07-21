@@ -129,7 +129,7 @@ Privacy-focused Browser Extension
 
 <br/><br/>
 
-<a href="https://netshield-web.vercel.app/">
+<a href="https://github.com/TheCyberUchiha/NetShield">
 <img src="https://img.shields.io/badge/Live-Demo-FF1E1E?style=for-the-badge"/>
 </a>
 
