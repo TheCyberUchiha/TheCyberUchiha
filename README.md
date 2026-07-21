@@ -129,7 +129,7 @@ Privacy-focused Browser Extension
 
 <br/><br/>
 
-<a href="https://github.com/TheCyberUchiha/NetShield">
+<a href="https://github.com/TheCyberUchiha/NetShield/blob/main/README.md">
 <img src="https://img.shields.io/badge/Live-Demo-FF1E1E?style=for-the-badge"/>
 </a>
 
